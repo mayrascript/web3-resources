@@ -17,6 +17,7 @@
 - [Binance Academy](https://academy.binance.com/)
 - [Best Blockchain Courses 2022](https://hackr.io/blog/best-blockchain-courses)
 - [Blockchain Specialization (:uk:)](https://www.coursera.org/specializations/blockchain?irclickid=yDM3hxQdVxyITfJT130byTVlUkGSNy1O-xtWTE0&irgwc=1&utm_campaign=3294490&utm_content=b2c&utm_medium=partners&utm_source=impact)
+- [Become a Blockchain Developer](https://www.educative.io/courses/hands-on-blockchain-hyperledger-fabric?affiliate_id=5073518643380224)
 
 ## Others 
 - [Web3 - auth (:uk:)](https://web3auth.io/)
