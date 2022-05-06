@@ -14,6 +14,7 @@
 - [Crypto Zombies (:uk:)](https://cryptozombies.io/)
 - [Buildspace (:uk:)](https://buildspace.so/)
 - [Blockchain Beyond the Hype (:uk:) (📋)](https://www3.weforum.org/docs/48423_Whether_Blockchain_WP.pdf)
+- [Binance Academy](https://academy.binance.com/)
 
 ## Others 
 - [Web3 - auth (:uk:)](https://web3auth.io/)
