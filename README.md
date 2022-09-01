@@ -3,6 +3,13 @@
 ## References
 - [Emojis References](https://github.com/mayrascript/emojis-references)
 
+## Roadmap
+- JS, HTML, CSS, React
+- Basics of Bitcoin, Blockchain and Crypto
+- Ethereum (or Solana)
+- Solidity (or Rust)
+- Choose a specialization: NFTs, DeFi or Security
+
 ## NFT 
 - [NFT School (:uk:)](https://nftschool.dev/)
 
@@ -21,6 +28,11 @@
 
 ## Others 
 - [Web3 - auth (:uk:)](https://web3auth.io/)
+- [Learn web3 (:uk:)](https://learnweb3.io/)
+- [Web3 University (:uk:)](https://www.web3.university/)
+- [Buildspace (:uk:)](https://buildspace.so/)
+- [Use web3 (:uk:)](https://www.useweb3.xyz/)
+- [World-Class Web3 Workshops (:uk:)](https://lnkd.in/eziYpDtM)
 
 ## Tools
 - [Hardhat (:uk:)](hardhat.org)
